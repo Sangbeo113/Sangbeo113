@@ -1,76 +1,75 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg">
-  <img src="assets/header.svg" width="1200" alt="Sang Nguyen — Data Engineer">
+﻿<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header.svg" width="1200" height="280" alt="Sang Nguyen &#8212; Data Engineer">
 </picture>
 
-<sub><code>STATUS  open to data engineering roles  ·  LOCATION  Ho Chi Minh City  ·  STACK  Python · SQL · dbt · Airflow</code></sub>
+<sub><code>STATUS  open to data engineering roles  &#183;  LOCATION  Ho Chi Minh City  &#183;  STACK  Python &#183; SQL &#183; dbt &#183; Airflow</code></sub>
 
 <br>
 
-<img src="assets/divider.svg" width="1200" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider.svg" width="1200" height="24" alt="">
+</picture>
 
 ### INDEX
 
 | NODE | SECTION |
 | :--- | :--- |
-| NODE_01 | **[BIO](https://nvnsang.vercel.app/#bio)** — about the author |
-| NODE_02 | **[PROJECTS](https://nvnsang.vercel.app/#projects)** — 4 build logs |
-| NODE_03 | **[PIPELINE](https://nvnsang.vercel.app/#pipeline)** — pipeline runbook |
-| NODE_04 | **[SKILLS](https://nvnsang.vercel.app/#skills)** — toolbox |
+| NODE_01 | **[BIO](https://nvnsang.vercel.app/#bio)** &#8212; about the author |
+| NODE_02 | **[PROJECTS](https://nvnsang.vercel.app/#projects)** &#8212; 4 build logs |
+| NODE_03 | **[PIPELINE](https://nvnsang.vercel.app/#pipeline)** &#8212; pipeline runbook |
+| NODE_04 | **[SKILLS](https://nvnsang.vercel.app/#skills)** &#8212; toolbox |
 
-<img src="assets/divider.svg" width="1200" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider.svg" width="1200" height="24" alt="">
+</picture>
 
 ### BIO
 
-I build reliable data pipelines across the entire lifecycle — ingestion, data modeling, scheduled workflows, and observability. My software-engineering background means I treat data like production software: automated tests, schema versioning, idempotent reruns.
+I build reliable data pipelines across the entire lifecycle &#8212; ingestion, data modeling, scheduled workflows, and observability. My software-engineering background means I treat data like production software: automated tests, schema versioning, idempotent reruns.
 
 Currently shipping **warehouse tables** and **feature sets** that downstream models and operational dashboards can depend on without surprise failures.
 
-→ [Read the full logbook](https://nvnsang.vercel.app/#bio)
+&#8594; [Read the full logbook](https://nvnsang.vercel.app/#bio)
 
-<img src="assets/divider.svg" width="1200" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider.svg" width="1200" height="24" alt="">
+</picture>
 
 ### PROJECTS / BUILD LOG
 
 | BUILD | STATUS | STACK | CASE STUDY |
 | :--- | :--- | :--- | :--- |
-| BUILD-01 Batch Ingestion & Feature Pipeline | SHIPPED | Python · Pandas · SQL · LightGBM | [→ read](https://nvnsang.vercel.app/#projects) |
-| BUILD-02 Fraud-MLST Dimensionality Reduction | SHIPPED | Python · UMAP · scikit-learn · Three.js | [→ read](https://nvnsang.vercel.app/#projects) |
-| BUILD-03 LOWOR — B2B Agricultural Export | SHIPPED | Next.js · TypeScript · Tailwind · GSAP | [→ read](https://nvnsang.vercel.app/#projects) |
-| BUILD-04 MIORIN — Technology Corporate Website | SHIPPED | Next.js · TypeScript · Tailwind · GSAP | [→ read](https://nvnsang.vercel.app/#projects) |
+| BUILD-01 Batch Ingestion & Feature Pipeline | SHIPPED | Python &#183; Pandas &#183; SQL &#183; LightGBM | [&#8594; read](https://nvnsang.vercel.app/#projects) |
+| BUILD-02 Fraud-MLST Dimensionality Reduction | SHIPPED | Python &#183; UMAP &#183; scikit-learn &#183; Three.js | [&#8594; read](https://nvnsang.vercel.app/#projects) |
+| BUILD-03 LOWOR &#8212; B2B Agricultural Export | SHIPPED | Next.js &#183; TypeScript &#183; Tailwind &#183; GSAP | [&#8594; read](https://nvnsang.vercel.app/#projects) |
+| BUILD-04 MIORIN &#8212; Technology Corporate Website | SHIPPED | Next.js &#183; TypeScript &#183; Tailwind &#183; GSAP | [&#8594; read](https://nvnsang.vercel.app/#projects) |
 
-<img src="assets/divider.svg" width="1200" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider.svg" width="1200" height="24" alt="">
+</picture>
 
 ### SKILLS / TOOLBOX
 
-<p>
-<img src="https://img.shields.io/badge/Python-LANG-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=LANG&logoColor=141511" alt="Python"> <img src="https://img.shields.io/badge/SQL-LANG-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=LANG&logoColor=141511" alt="SQL"> <img src="https://img.shields.io/badge/TypeScript-LANG-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=LANG&logoColor=141511" alt="TypeScript">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+  <img src="assets/skills.svg" width="1200" height="420" alt="Skills">
+</picture>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-PROC-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=PROC&logoColor=141511" alt="Pandas"> <img src="https://img.shields.io/badge/dbt-PROC-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=PROC&logoColor=141511" alt="dbt">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider.svg" width="1200" height="24" alt="">
+</picture>
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-STORE-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=STORE&logoColor=141511" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-STORE-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=STORE&logoColor=141511" alt="MySQL"> <img src="https://img.shields.io/badge/BigQuery-STORE-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=STORE&logoColor=141511" alt="BigQuery">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer.svg" width="1200" height="120" alt="">
+</picture>
 
-<p>
-<img src="https://img.shields.io/badge/Docker-INFRA-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=INFRA&logoColor=141511" alt="Docker"> <img src="https://img.shields.io/badge/Linux-INFRA-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=INFRA&logoColor=141511" alt="Linux"> <img src="https://img.shields.io/badge/Git-INFRA-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=INFRA&logoColor=141511" alt="Git">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Airflow-ORCH-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=ORCH&logoColor=141511" alt="Airflow">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-WEB-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=WEB&logoColor=141511" alt="Next.js"> <img src="https://img.shields.io/badge/React-WEB-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=WEB&logoColor=141511" alt="React"> <img src="https://img.shields.io/badge/Framer_Motion-WEB-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=WEB&logoColor=141511" alt="Framer Motion"> <img src="https://img.shields.io/badge/Three.js-WEB-141511?style=flat-square&labelColor=141511&color=F1F0EC&label=WEB&logoColor=141511" alt="Three.js">
-</p>
-
-<img src="assets/divider.svg" width="1200" alt="">
-
-<img src="assets/footer.svg" width="1200" alt="">
-
-→ [Email](mailto:your@email.com)  
-→ [GitHub](https://github.com/Sangbeo113)  
-→ [LinkedIn](https://linkedin.com/in/yourprofile)
+&#8594; [Email](mailto:your@email.com)  
+&#8594; [GitHub](https://github.com/Sangbeo113)  
+&#8594; [LinkedIn](https://linkedin.com/in/yourprofile)
